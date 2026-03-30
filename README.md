@@ -1,4 +1,4 @@
-                                                             ﻿# 🎉 Smart Event Management System
+                                                🎉 Smart Event Management System
 
 A modern web-based application to manage college events efficiently with **registration, QR-based check-in, and live attendance tracking**.
 
